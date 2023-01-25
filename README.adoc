@@ -1,11 +1,11 @@
-= {upstream-name} for PortableApps.com
+﻿= {upstream-name} for PortableApps.com
 :author: Urs Roesch
-:app-name-spaced: {{ AppNameSpaced }}
-:app-name: {{ AppName }}
-:app-project-url: {{ AppProjectUrl }}
-:git-user: {{ GitHubUser }}
-:upstream-name: {{ UpstreamName }}
-:upstream-url: {{ UpstreamUrl }}
+:app-name-spaced: Gitlab CLI Portable
+:app-name: GitlabCliPortable
+:app-project-url: https://github.com/uroesch/GitlabCliPortable
+:git-user: uroesch
+:upstream-name: GitLab CLI tool
+:upstream-url: https://gitlab.com/gitlab-org/cli
 :shields-url: https://img.shields.io/github/v/release/{git-user}/{app-name}
 :icons: font
 :imagesdir: Other/Images
@@ -282,3 +282,4 @@ pwsh Other/Update/Update.ps1
 // End include BUILD.adoc
 
 // vim: set colorcolumn=80 textwidth=80 : #spell spelllang=en_us :
+
