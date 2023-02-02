@@ -86,8 +86,8 @@ amet.
 | Windows Vista   | {no-data}         | {no-data}
 | Windows 7       | {no-data}         | {no-data}
 | Windows 8       | {no-data}         | {no-data}
-| Windows 10      | {no-data}         | {no-data}
-| Windows 11      | {not-applicable}  | {no-data}
+| Windows 10      | {no-data}         | {full-support}
+| Windows 11      | {not-applicable}  | {full-support}
 |===
 
 Legend:
