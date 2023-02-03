@@ -43,9 +43,9 @@ image:https://img.shields.io/badge/runs%20on-Win64%20%26%20Win32-blue[
   title="Runs on",
   link="#_runtime_dependencies"
 ]
-image:https://img.shields.io/github/downloads/{gi-user}/{app-name}/total[
+image:https://img.shields.io/github/downloads/{git-user}/{app-name}/total[
   title="GitHub All Releases",
-  link="https://img.shields.io/github/downloads/{gi-user}/{app-name}/total"
+  link="https://img.shields.io/github/downloads/{git-user}/{app-name}/total"
 ]
 endif::env-github[]
 
