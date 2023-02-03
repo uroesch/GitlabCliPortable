@@ -59,18 +59,16 @@ ifdef::env-github,env-gitlab[]
 +++
 endif::env-github,env-gitlab[]
 
-link:{upstream-url}[{upstream-name}] Lorem ipsum dolor sit amet, consetetur
-sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore
-magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo
-dolores et ea rebum.
+link:{upstream-url}[{upstream-name}] GLab is an open source GitLab CLI tool
+bringing GitLab to your terminal next to where you are already working with
+`git` and your code without switching between windows and browser tabs. Work
+with issues, merge requests, watch running pipelines directly from your CLI
+among other features.
 
-Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit
-amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed
-diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
-
-Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit
-amet.
+`glab` is available for repositories hosted on GitLab.com and self-managed
+GitLab instances. glab supports multiple authenticated GitLab instances and
+automatically detects the authenticated hostname from the remotes available in
+the working Git directory.
 
 == Runtime dependencies
 * 32-bit or 64-bit version of Windows Vista or greater.
@@ -86,7 +84,7 @@ amet.
 | Windows Vista   | {no-data}         | {no-data}
 | Windows 7       | {no-data}         | {no-data}
 | Windows 8       | {no-data}         | {no-data}
-| Windows 10      | {no-data}         | {full-support}
+| Windows 10      | {full-support}    | {full-support}
 | Windows 11      | {not-applicable}  | {full-support}
 |===
 
@@ -282,4 +280,3 @@ pwsh Other/Update/Update.ps1
 // End include BUILD.adoc
 
 // vim: set colorcolumn=80 textwidth=80 : #spell spelllang=en_us :
-
