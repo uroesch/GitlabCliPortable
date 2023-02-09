@@ -72,14 +72,16 @@ the working Git directory.
 
 == Runtime dependencies
 * 32-bit or 64-bit version of Windows Vista or greater.
+* A version of git should be installed e.g. {git-base-url}/GitPortable[
+  GitPortable]
 
 == Support matrix
 
 [cols="2,^1,^1", options=header]
 |===
 | OS              | 32-bit            | 64-bit
-| ReactOS 0.4.14  | {no-data}         | {no-data}
-| ReactOS 0.4.15  | {no-data}         | {no-data}
+| ReactOS 0.4.14  | {no-support}      | {no-support}
+| ReactOS 0.4.15  | {no-support}      | {no-support}
 | Windows XP      | {no-data}         | {no-data}
 | Windows Vista   | {no-data}         | {no-data}
 | Windows 7       | {no-data}         | {no-data}
