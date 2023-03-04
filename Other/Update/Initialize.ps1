@@ -13,7 +13,7 @@ $Version      = "0.0.2-alpha"
 $Debug        = $True
 $Files        = @(
   (Join-Path $AppRoot help.html)
-  (Join-Path $AppRoot README.adoc)
+  (Join-Path $AppRoot README.md)
   (Join-Path $AppRoot LICENSE)
   $AppInfoIni
   $UpdateIni
